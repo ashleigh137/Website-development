@@ -1,0 +1,23 @@
+body
+{
+    background-color:pink;
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KLsKw0jLKi6EOWlMs2QnOvqlopxW-8i54w&s);
+    background-repeat:no-repeat;
+    background-position:right;
+    background-attachment:fixed;
+    background-size:auto;
+}
+
+#demo
+{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(to top right, rgb(255, 204, 0),white, rgb(251, 255, 0), white);
+}
+
+#demo2
+{
+    width: 200px;
+    height: 200px;
+    background:radial-gradient(rgb(169, 184, 169), white, rgb(171, 132, 61))
+}
