@@ -1,0 +1,26 @@
+h2
+{
+    background-color: red ;
+    margin: 40px;
+}
+span
+{
+    background-color: orange;
+    padding: 40px;
+}
+div
+{
+    background-color: pink;
+   margin-top: 40px;
+   padding-left: 40px;
+   padding-bottom: 40px ;
+   padding-top: 20px;
+}
+img
+{
+    width: 300px;
+    background-color: lightblue;
+    padding: 40px;
+    margin-left:100px ;
+    float: right;
+}
